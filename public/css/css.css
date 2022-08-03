@@ -1,0 +1,9 @@
+.container{
+    background-color: rgb(255, 255, 255);
+    /* margin-block-end: 10rem; */
+}
+
+.navbar{
+    background-color: rgb(249, 197, 41);
+    width: 100% ;
+}
