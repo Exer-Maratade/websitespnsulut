@@ -78,13 +78,13 @@
             <form class="d-flex">
                 <input class="form-control me-2 mr-2" type="search" placeholder="Search" aria-label="Search"
                     style="width: 400px">
-                <button class="btn btn-outline-success" type="submit">Search</button>
+                <button class="btn btn-outline-dark" type="submit">Search</button>
             </form>
-            <div class="d-flex">
+            <div class="d-flex text-decoration-none">
                 <button class="btn text-danger btn-link ml-2" type="button" data-bs-toggle="offcanvas"
                     data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">
-                    <strong>
-                        Pin
+                    <strong class="text-decoration-none">
+                     What News
                     </strong>
                 </button>
             </div>
